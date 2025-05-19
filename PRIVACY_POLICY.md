@@ -1,20 +1,34 @@
 # Privacy Policy
 
-This privacy policy describes how the Contextual Lookup Chrome extension ("the Extension") handles user data.
+This privacy policy describes how the Contextual Lookup Chrome extension ("the Extension") handles user data, including the use of Google Analytics.
 
-**Data Collection:**
+**Data Collection with Google Analytics:**
 
-We want to be clear: **The Contextual Lookup Chrome extension does not collect any personal or usage data from its users.**
+The Contextual Lookup Chrome extension uses Google Analytics to collect information about user interactions within the Extension. This helps us understand how the Extension is used, allowing us to improve its functionality and user experience.
 
-This means that we do not track:
+**Information Collected by Google Analytics:**
 
-* Your browsing history
-* The websites you visit
-* The text you select or hover over
-* Your IP address
-* Any other personal information
+Google Analytics collects data about your activities within the Extension. This may include:
 
-The Extension operates locally within your Chrome browser. Any processing of text for generating contextual lookups is done directly on your device using either Chrome's built-in AI model or, if you choose to use it, by communicating with third-party AI services (like OpenRouter) via secure API requests initiated by you. We do not intercept or store any of this communication.
+* When you look up a term with Contextual Lookup
+* When you initiate or finish the OpenRouter sign-in flow
+* Other usage patterns and events within the Extension
+
+This data is collected in an anonymized form and does not include personally identifiable information such as your name, email address.
+
+For more information about how Google Analytics collects and processes data, please refer to [Google's Privacy Policy](https://policies.google.com/privacy).
+
+**Data Usage:**
+
+The data collected through Google Analytics is used to:
+
+* Analyze and improve the Extension's performance and features
+* Understand user behavior and preferences
+* Track aggregate usage statistics
+
+**Your Choices:**
+
+Google provides users with options to control how their data is collected by Google Analytics. You can learn more about these options and how to opt-out [here](https://tools.google.com/dlpage/gaoptout).
 
 **Third-Party Services:**
 
@@ -22,7 +36,7 @@ If you choose to use server-side AI models through services like OpenRouter, ple
 
 **Permissions:**
 
-The Extension may request certain permissions from your browser to function correctly (e.g., access to the current tab's content to select text). These permissions are necessary for the Extension to provide its features, but they do not grant us access to collect or transmit your personal data.
+The Extension may request certain permissions from your browser to function correctly. These permissions are necessary for the Extension to provide its features, and they do not grant us access to collect your personal data beyond what is described in this policy concerning Google Analytics.
 
 **Updates to this Privacy Policy:**
 
